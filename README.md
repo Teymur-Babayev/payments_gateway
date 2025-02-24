@@ -76,4 +76,4 @@ This project is a comprehensive payment gateway integration system that combines
 ![front_end_example](./docs/invoices.png)
 ![front_end_example](./docs/products.png)
 
-`Developed by byko-dev 2023`
+`Developed by teymur babayev 2025`
